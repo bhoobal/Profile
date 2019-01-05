@@ -3,6 +3,7 @@
 Experienced DevOps Architect, Skilled in AWS, Docker, Kubernetes, Agile Methodologies, DevOps, Jenkins, and Windows Server. Strong information technology professional with a Master’s Degree focused in computer applications.
 
  A LITTLE ABOUT ME!
+
 	An Obsessive Tech Evangelist, a Distinguished DevOps Engineer with true passion to create a collaborative environment where software makers get to build products that Operators love to use. 
 
 	An Expert Product Stability Manager, with vast experience in overseeing the coordination, integration, flow of development, testing and deployment to support continuous delivery. 
