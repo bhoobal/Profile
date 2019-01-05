@@ -31,4 +31,6 @@ Experienced DevOps Architect, Skilled in AWS, Docker, Kubernetes, Agile Methodol
 KEYWORDS:
 GIT/ VSTS/Jenkins/ Pipeline/ EC2/ Auto scaling/ Load Balancing/ RDS/ CloudFront/ Route53/ S3/ Nginx+/ Kafka/ Directory Service/ Lambda/ Code Deploy/ IAM/ DataDog / CloudWatch/ Active Directory/ VPC/ SQS/ RabbitMQ/ CliQr/ Terraform/ IAAS/ IIS/ PAAS/ PowerShell/ ASP.NET/ Emprix/ NeoLoad/JMeter/TFS/ Cruisecontrol.net/ Jenkins/ NewRelic/ SumoLogic/ Runscope/ APIScience/ ABS/ Service-now/  SumoLogic/ Docker/ Kubernetes/ Helm/ Prometheus / Grafana / Elasticsearch/ Logstash/ Kibana / WordPress /Windows Server/ Containers/ ECR
 
+Downloadable profile : https://github.com/bhoobal/Profile/blob/master/BHOOBALAN%20PALANIVEL_DevOps.pdf
+
 
